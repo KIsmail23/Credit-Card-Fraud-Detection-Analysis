@@ -2,7 +2,7 @@
 This project focuses on detecting fraudulent credit card transactions using data analysis and machine learning techniques.
 
 
-## 📌 Project Overview:
+# 📌 Project Overview:
 
 The goal is to identify suspicious transactions accurately while minimizing false alarms.
 
@@ -10,7 +10,7 @@ Fraud detection is a real-world problem faced by banks and financial institution
 
 ---
 
-## 🎯 Objectives
+# 🎯 Objectives
 
 - Understand patterns in fraudulent vs. genuine transactions
 
