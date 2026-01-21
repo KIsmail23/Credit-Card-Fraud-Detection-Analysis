@@ -22,7 +22,7 @@ Fraud detection is a real-world problem faced by banks and financial institution
   
 --- 
 
-## 🧰 Tools & Technologies Used
+🧰 Tools & Technologies Used
 
 Python
 
